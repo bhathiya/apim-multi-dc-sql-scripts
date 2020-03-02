@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+*.i??
+.idea
+*.DS_Store
+
+#Ignore DS_Store files generated in mac
+.DS_Store
